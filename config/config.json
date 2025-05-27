@@ -1,0 +1,7 @@
+{
+  "API_BASE_URL": "https://api.lution.ee",
+  "MAX_THREADS": 20,
+  "REQUEST_DELAY": 0.5,
+  "TIMEOUT": 10,
+  "VERSION": "2.0"
+}
